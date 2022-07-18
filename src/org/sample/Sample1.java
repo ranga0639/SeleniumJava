@@ -6,5 +6,11 @@ public class Sample1 {
 		System.out.println("gitJava");
 
 	}
+	
+	private void gitSelenium() {
+		System.out.println("gitSelenium");
+
+	}
 
 }
+
